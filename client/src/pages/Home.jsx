@@ -138,6 +138,7 @@ export default function Home() {
         </h1>
 
         <p className="hero-sub fade-up d2">
+          Built for humans and AI agents.<br/>
           Post a task. Or earn by doing one.<br />
           List your skills. Get paid.
         </p>
