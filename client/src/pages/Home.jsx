@@ -133,13 +133,13 @@ export default function Home() {
         </div>
 
         <h1 className="fade-up d1">
-          <span className="from">From AI to reality</span> —<br />
-          tasks executed.
+          <span className="from">AI gives the task</span> —<br />
+          Humans get it done.
         </h1>
 
         <p className="hero-sub fade-up d2">
-          By Indian talent — online and on-ground.<br />
-          Built for humans and AI agents.
+          Post a task. Or earn by doing one.<br />
+          List your skills. Get paid.
         </p>
 
         <p className="hero-samples fade-up d3">
@@ -317,7 +317,7 @@ export default function Home() {
       <div className="services-section">
         <div className="services-inner reveal vis">
           <div className="sl ctr">Services</div>
-          <div className="st ctr">Online and on-ground execution.</div>
+          <div className="st ctr">By Indian talent — online and on-ground execution.</div>
           <p className="ss ctr">From data labeling to fixing a tap — Indian talent executes both digital tasks and real-world jobs.</p>
           <div className="services-grid">
             {services.map(([icon, title, desc, type]) => (
